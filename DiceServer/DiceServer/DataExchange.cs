@@ -23,15 +23,6 @@ class DataExchange
         P = Port;
     }
 
-    /// <summary>
-    /// Invia tramite TCPClient i dati all'ip specificato nel costruttore
-    /// </summary>
-    /// <param name="Data">
-    /// I dati da inviare in formato String
-    /// </param>
-    /// <returns>
-    /// Restituisce True se non sono avvenuti errori altrimenti False
-    /// </returns>
     public Boolean Send(string Data)
     {
         TcpClient TC = new TcpClient();
@@ -67,15 +58,6 @@ class DataExchange
         return true;
     }
 
-    /// <summary>
-    /// Invia tramite TCPClient i dati all'ip specificato nel costruttore
-    /// </summary>
-    /// <param name="Data">
-    /// I dati da inviare in formato Byte[]
-    /// </param>
-    /// <returns>
-    /// Restituisce True se non sono avvenuti errori altrimenti False
-    /// </returns>
     public Boolean Send(byte[] Data)
     {
         TcpClient TC = new TcpClient();
@@ -108,18 +90,6 @@ class DataExchange
         return true;
     }
 
-    /// <summary>
-    /// Avvia le funzioni di server e resta in attesa
-    /// dei dati da ricevere sull'ip e la porta specificati
-    /// nel costruttore della classe
-    /// Solitamente si inserisce all'interno di iterazioni continue
-    /// </summary>
-    /// <param name="buffersize">
-    /// Definisce la dimensione del buffer da ricevere
-    /// </param>
-    /// <returns>
-    /// Restituisce una stringa contenente i dati ricevuti convertiti in caratteri ASCII
-    /// </returns>
     public string ReceiveString(int buffersize = 1024)
     {
         string ReceiveData = "";
@@ -151,18 +121,6 @@ class DataExchange
         return ReceiveData;
     }
 
-    /// <summary>
-    /// Avvia le funzioni di server e resta in attesa
-    /// dei dati da ricevere sull'ip e la porta specificati
-    /// nel costruttore della classe
-    /// Solitamente si inserisce all'interno di iterazioni continue
-    /// </summary>
-    /// <param name="buffersize">
-    /// Definisce la dimensione del buffer da ricevere
-    /// </param>
-    /// <returns>
-    /// Restituisce l'array di byte ricevuto
-    /// </returns>
     public byte[] ReceiveByteArray(int buffersize = 1024)
     {
         byte[] b = new byte[buffersize];
