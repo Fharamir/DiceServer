@@ -1,0 +1,9 @@
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\bin\Release\DiceServer.exe
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\bin\Release\DiceServer.pdb
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Release\DiceServer.exe
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Release\DiceServer.pdb
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\bin\Release\DiceServer.exe.manifest
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\bin\Release\DiceServer.application
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Release\DiceServer.exe.manifest
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Release\DiceServer.application

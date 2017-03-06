@@ -1,0 +1,17 @@
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\bin\Debug\DiceServer.exe
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\bin\Debug\DiceServer.pdb
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Debug\DiceServer.exe
+C:\Documents and Settings\Federico\Documenti\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Debug\DiceServer.pdb
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceServer\DiceServer\bin\Debug\DiceServer.exe.manifest
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceServer\DiceServer\bin\Debug\DiceServer.application
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceServer\DiceServer\obj\x86\Debug\DiceServer.exe.manifest
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\DiceServer\DiceServer\obj\x86\Debug\DiceServer.application
+C:\Users\federico\Documents\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Debug\DiceServer.exe
+C:\Users\federico\Documents\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Debug\DiceServer.pdb
+C:\Users\federico\Documents\Visual Studio 2010\Projects\DiceServer\DiceServer\bin\Debug\DiceServer.exe.manifest
+C:\Users\federico\Documents\Visual Studio 2010\Projects\DiceServer\DiceServer\bin\Debug\DiceServer.application
+C:\Users\federico\Documents\Visual Studio 2010\Projects\DiceServer\DiceServer\bin\Debug\DiceServer.exe
+C:\Users\federico\Documents\Visual Studio 2010\Projects\DiceServer\DiceServer\bin\Debug\DiceServer.pdb
+C:\Users\federico\Documents\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Debug\DiceServer.exe.manifest
+C:\Users\federico\Documents\Visual Studio 2010\Projects\DiceServer\DiceServer\obj\x86\Debug\DiceServer.application
